@@ -1,0 +1,4 @@
+install = {}
+install.Depedencies = {"cckernel"}
+install.InstallHierarchy = {}
+return install
